@@ -14,11 +14,9 @@ Each release has build date as its name.
 
 ## Build Yourself
 
-Make the resume using [Tectonic](https://tectonic-typesetting.github.io/book/latest/index.html)!
+Make the resume using [ohmycv](https://ohmycv.app/)!
 
-```sh
-tectonic -X build
-```
+
 
 ## How to write a resume
 
