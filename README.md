@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Get to know me :dancer:
+Get to know me 🤫:
 
 ## Templates
 
