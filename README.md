@@ -1,7 +1,7 @@
 <h1 align="center"> fjadidi2001.pdf </h1>
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/1995parham/1995parham.pdf/latex.yaml?logo=github&style=for-the-badge">
+  <img alt="GitHub Workflow Status" src="">
   <img alt="Me" src="https://img.shields.io/badge/me-parham-orange?style=for-the-badge">
 </p>
 
