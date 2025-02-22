@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="GitHub Workflow Status" src="">
-  <img alt="Me" src="https://img.shields.io/badge/me-parham-orange?style=for-the-badge">
+  <img alt="Me" src="">
 </p>
 
 ## Introduction
