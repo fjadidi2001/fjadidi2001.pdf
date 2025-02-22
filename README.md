@@ -1,9 +1,6 @@
 <h1 align="center"> fjadidi2001.pdf </h1>
 
-<p align="center">
-  <img alt="GitHub Workflow Status" src="">
-  <img alt="Me" src="">
-</p>
+
 
 ## Introduction
 
