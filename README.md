@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Get to know me 🤫:
+Get to know me 🤫
 
 
 ## Pre-Build Version
